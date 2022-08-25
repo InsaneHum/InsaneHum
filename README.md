@@ -1,5 +1,5 @@
 <h3 align="left">Hi, I'm Zi Yang.</h3>
-<h4 align="left">I'm a Mechatronics and Robotics Engineerng student with a special interest in coding and Machine Learning.</h4>
+<h4 align="left">I'm a Mechatronics and Robotics Engineering student with a special interest in coding and Machine Learning.</h4>
 <br>
 
 <p align="left">
