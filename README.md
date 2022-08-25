@@ -1,16 +1,13 @@
-### Hi there 👋
+<h3 align="left">Hi, I'm Zi Yang.</h3>
+<h4 align="left">I'm a Mechatronics and Robotics Engineerng student with a special interest in coding and Machine Learning.</h4>
+<br>
 
-<!--
-**InsaneHum/InsaneHum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InsaneHum&show_icons=true&theme=github_dark&border_radius=10px" height="180px" width="auto"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=InsaneHum&theme=github_dark&include_all_commits=true&hide=stars,issues,contribs" height="180px"  />
 
-Here are some ideas to get you started:
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
